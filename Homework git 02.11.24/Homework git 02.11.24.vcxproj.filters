@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Homework git 02.11.24.cpp">
+    <ClCompile Include="subtraction.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
